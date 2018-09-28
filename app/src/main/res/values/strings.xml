@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotionLayoutYoutubeExample</string>
+    <string name="title_home">Home</string>
+    <string name="title_trending">Alta</string>
+    <string name="title_subscriptions">inscrições</string>
+    <string name="title_inbox">Atividade</string>
+</resources>
