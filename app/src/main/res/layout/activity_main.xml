@@ -8,6 +8,12 @@
     app:layoutDescription="@xml/main_scene"
     tools:context=".MainActivity">
 
+    <View
+        android:id="@+id/backgroundDim"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="10dp" />
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/bottomNavigationView"
         android:layout_width="match_parent"
